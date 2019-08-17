@@ -1,0 +1,5 @@
+me\drmayx\voxelclearwand\voxelverseclearwand\VoxelVerseClearWand.class
+me\drmayx\voxelclearwand\voxelverseclearwand\utils\TextUtils.class
+me\drmayx\voxelclearwand\voxelverseclearwand\commands\ClearWandCommand.class
+me\drmayx\voxelclearwand\voxelverseclearwand\listeners\ClearWandListener.class
+me\drmayx\voxelclearwand\voxelverseclearwand\utils\ItemCreator.class
