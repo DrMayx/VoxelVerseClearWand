@@ -1,0 +1,17 @@
+name: VoxelVerseClearWand
+version: 1.1
+main: me.drmayx.voxelclearwand.voxelverseclearwand.VoxelVerseClearWand
+api-version: 1.13
+
+commands:
+  clearwand:
+    description: Clear contents of any container using a wand.
+    usage: /<command> get
+    aliases: [trashwand, cw, twand]
+permissions:
+  clearwand.get:
+    description: Get a clear wand.
+    default: op
+  clearwand.use:
+    description: Use a clear wand.
+    default: op

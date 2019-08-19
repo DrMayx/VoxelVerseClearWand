@@ -1,5 +1,5 @@
 name: VoxelVerseClearWand
-version: 1.0
+version: ${project.version}
 main: me.drmayx.voxelclearwand.voxelverseclearwand.VoxelVerseClearWand
 api-version: 1.13
 
