@@ -16,6 +16,10 @@ public class TextUtils {
         return ChatColor.translateAlternateColorCodes('&', "&7to clear its contents.&r");
     }
 
+    public static String getLore2Message(){
+        return ChatColor.translateAlternateColorCodes('&', "&7Uses Left : %s");
+    }
+
     public static String getClearedMessage(){
         return ChatColor.translateAlternateColorCodes('&', "&aContainer cleared.&r");
     }
@@ -34,5 +38,9 @@ public class TextUtils {
 
     public static String getInvalidUsePermissionsMessage(){
         return ChatColor.translateAlternateColorCodes('&', "&4Insufficient permissions to use Trash Wand.");
+    }
+
+    public static String getInvalidReloadPermissionsMessage(){
+        return ChatColor.translateAlternateColorCodes('&', "&4Insufficient permissions to reload Trash Wand.");
     }
 }

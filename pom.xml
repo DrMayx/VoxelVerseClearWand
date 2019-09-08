@@ -6,7 +6,7 @@
 
     <groupId>me.drmayx.voxelclearwand</groupId>
     <artifactId>VoxelVerseClearWand</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <packaging>jar</packaging>
 
     <name>VoxelVerseClearWand</name>
@@ -69,6 +69,11 @@
             <artifactId>spigot-api</artifactId>
             <version>1.14.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.5</version>
         </dependency>
     </dependencies>
 </project>

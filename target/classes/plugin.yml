@@ -1,5 +1,5 @@
 name: VoxelVerseClearWand
-version: 1.1
+version: 1.2
 main: me.drmayx.voxelclearwand.voxelverseclearwand.VoxelVerseClearWand
 api-version: 1.13
 
@@ -14,4 +14,7 @@ permissions:
     default: op
   clearwand.use:
     description: Use a clear wand.
+    default: op
+  clearwand.admin:
+    description: Admin tools for clear wand plugin
     default: op

@@ -1,5 +1,8 @@
-me\drmayx\voxelclearwand\voxelverseclearwand\VoxelVerseClearWand.class
 me\drmayx\voxelclearwand\voxelverseclearwand\utils\TextUtils.class
 me\drmayx\voxelclearwand\voxelverseclearwand\commands\ClearWandCommand.class
+me\drmayx\voxelclearwand\voxelverseclearwand\utils\PlayerRecord.class
+me\drmayx\voxelclearwand\voxelverseclearwand\VoxelVerseClearWand.class
+me\drmayx\voxelclearwand\voxelverseclearwand\utils\FileHandler.class
+me\drmayx\voxelclearwand\voxelverseclearwand\utils\Config.class
 me\drmayx\voxelclearwand\voxelverseclearwand\listeners\ClearWandListener.class
 me\drmayx\voxelclearwand\voxelverseclearwand\utils\ItemCreator.class

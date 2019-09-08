@@ -15,3 +15,6 @@ permissions:
   clearwand.use:
     description: Use a clear wand.
     default: op
+  clearwand.admin:
+    description: Admin tools for clear wand plugin
+    default: op
